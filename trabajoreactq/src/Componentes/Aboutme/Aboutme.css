@@ -1,0 +1,22 @@
+.aboutMe {
+    padding: 15px;
+    padding-top: 25px;
+    margin-top: 75px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.title {
+    font-size: 55px;
+    font-family: italic;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.text {
+    font-size: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}

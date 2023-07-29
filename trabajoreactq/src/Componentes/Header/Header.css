@@ -1,0 +1,40 @@
+
+h1 {
+    color: white;
+    font-size: 75px;
+    text-align: center;
+    margin-top: 150px;
+    font-style:italic;
+}
+
+
+nav{
+    height: 50px;
+    text-align: center;
+    margin-top: 8px;
+    float: center;
+    font-style: italic;
+    background-color:   rgb(128, 126, 124);
+  
+    
+  }
+  
+  nav ul{
+    list-style: none;
+    display: inline-block;
+    padding: auto;
+  
+  }
+  
+  nav ul li{
+  float: left;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    padding: 165px;
+    font-style: italic;
+  }
+  
